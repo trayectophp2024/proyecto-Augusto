@@ -21,7 +21,7 @@ $secciones_validas = [
     "titulo" => "Nuestro catalogo"
   ],
   "alumno" => [
-    "titulo" => "Programador web"
+    "titulo" => "Programador"
   ]
 
 ];
